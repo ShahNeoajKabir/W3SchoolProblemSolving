@@ -1,0 +1,10 @@
+C:\ProblemSolving\Solve20\bin\Debug\netcoreapp3.1\Solve20.exe
+C:\ProblemSolving\Solve20\bin\Debug\netcoreapp3.1\Solve20.deps.json
+C:\ProblemSolving\Solve20\bin\Debug\netcoreapp3.1\Solve20.runtimeconfig.json
+C:\ProblemSolving\Solve20\bin\Debug\netcoreapp3.1\Solve20.runtimeconfig.dev.json
+C:\ProblemSolving\Solve20\bin\Debug\netcoreapp3.1\Solve20.dll
+C:\ProblemSolving\Solve20\bin\Debug\netcoreapp3.1\Solve20.pdb
+C:\ProblemSolving\Solve20\obj\Debug\netcoreapp3.1\Solve20.AssemblyInfoInputs.cache
+C:\ProblemSolving\Solve20\obj\Debug\netcoreapp3.1\Solve20.AssemblyInfo.cs
+C:\ProblemSolving\Solve20\obj\Debug\netcoreapp3.1\Solve20.dll
+C:\ProblemSolving\Solve20\obj\Debug\netcoreapp3.1\Solve20.pdb

@@ -1,0 +1,11 @@
+C:\ProblemSolving\Solve15\bin\Debug\netcoreapp3.1\Solve15.exe
+C:\ProblemSolving\Solve15\bin\Debug\netcoreapp3.1\Solve15.deps.json
+C:\ProblemSolving\Solve15\bin\Debug\netcoreapp3.1\Solve15.runtimeconfig.json
+C:\ProblemSolving\Solve15\bin\Debug\netcoreapp3.1\Solve15.runtimeconfig.dev.json
+C:\ProblemSolving\Solve15\bin\Debug\netcoreapp3.1\Solve15.dll
+C:\ProblemSolving\Solve15\bin\Debug\netcoreapp3.1\Solve15.pdb
+C:\ProblemSolving\Solve15\obj\Debug\netcoreapp3.1\Solve15.AssemblyInfoInputs.cache
+C:\ProblemSolving\Solve15\obj\Debug\netcoreapp3.1\Solve15.AssemblyInfo.cs
+C:\ProblemSolving\Solve15\obj\Debug\netcoreapp3.1\Solve15.dll
+C:\ProblemSolving\Solve15\obj\Debug\netcoreapp3.1\Solve15.pdb
+C:\ProblemSolving\Solve15\obj\Debug\netcoreapp3.1\Solve15.csprojAssemblyReference.cache

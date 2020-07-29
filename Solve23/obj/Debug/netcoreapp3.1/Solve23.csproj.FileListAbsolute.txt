@@ -1,0 +1,10 @@
+C:\ProblemSolving\Solve23\bin\Debug\netcoreapp3.1\Solve23.exe
+C:\ProblemSolving\Solve23\bin\Debug\netcoreapp3.1\Solve23.deps.json
+C:\ProblemSolving\Solve23\bin\Debug\netcoreapp3.1\Solve23.runtimeconfig.json
+C:\ProblemSolving\Solve23\bin\Debug\netcoreapp3.1\Solve23.runtimeconfig.dev.json
+C:\ProblemSolving\Solve23\bin\Debug\netcoreapp3.1\Solve23.dll
+C:\ProblemSolving\Solve23\bin\Debug\netcoreapp3.1\Solve23.pdb
+C:\ProblemSolving\Solve23\obj\Debug\netcoreapp3.1\Solve23.AssemblyInfoInputs.cache
+C:\ProblemSolving\Solve23\obj\Debug\netcoreapp3.1\Solve23.AssemblyInfo.cs
+C:\ProblemSolving\Solve23\obj\Debug\netcoreapp3.1\Solve23.dll
+C:\ProblemSolving\Solve23\obj\Debug\netcoreapp3.1\Solve23.pdb

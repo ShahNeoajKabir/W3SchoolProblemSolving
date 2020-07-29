@@ -1,0 +1,11 @@
+C:\ProblemSolving\Solve9\bin\Debug\netcoreapp3.1\Solve9.exe
+C:\ProblemSolving\Solve9\bin\Debug\netcoreapp3.1\Solve9.deps.json
+C:\ProblemSolving\Solve9\bin\Debug\netcoreapp3.1\Solve9.runtimeconfig.json
+C:\ProblemSolving\Solve9\bin\Debug\netcoreapp3.1\Solve9.runtimeconfig.dev.json
+C:\ProblemSolving\Solve9\bin\Debug\netcoreapp3.1\Solve9.dll
+C:\ProblemSolving\Solve9\bin\Debug\netcoreapp3.1\Solve9.pdb
+C:\ProblemSolving\Solve9\obj\Debug\netcoreapp3.1\Solve9.csprojAssemblyReference.cache
+C:\ProblemSolving\Solve9\obj\Debug\netcoreapp3.1\Solve9.AssemblyInfoInputs.cache
+C:\ProblemSolving\Solve9\obj\Debug\netcoreapp3.1\Solve9.AssemblyInfo.cs
+C:\ProblemSolving\Solve9\obj\Debug\netcoreapp3.1\Solve9.dll
+C:\ProblemSolving\Solve9\obj\Debug\netcoreapp3.1\Solve9.pdb

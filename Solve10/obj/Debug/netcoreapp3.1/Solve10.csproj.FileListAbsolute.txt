@@ -1,0 +1,11 @@
+C:\ProblemSolving\Solve10\bin\Debug\netcoreapp3.1\Solve10.exe
+C:\ProblemSolving\Solve10\bin\Debug\netcoreapp3.1\Solve10.deps.json
+C:\ProblemSolving\Solve10\bin\Debug\netcoreapp3.1\Solve10.runtimeconfig.json
+C:\ProblemSolving\Solve10\bin\Debug\netcoreapp3.1\Solve10.runtimeconfig.dev.json
+C:\ProblemSolving\Solve10\bin\Debug\netcoreapp3.1\Solve10.dll
+C:\ProblemSolving\Solve10\bin\Debug\netcoreapp3.1\Solve10.pdb
+C:\ProblemSolving\Solve10\obj\Debug\netcoreapp3.1\Solve10.csprojAssemblyReference.cache
+C:\ProblemSolving\Solve10\obj\Debug\netcoreapp3.1\Solve10.AssemblyInfoInputs.cache
+C:\ProblemSolving\Solve10\obj\Debug\netcoreapp3.1\Solve10.AssemblyInfo.cs
+C:\ProblemSolving\Solve10\obj\Debug\netcoreapp3.1\Solve10.dll
+C:\ProblemSolving\Solve10\obj\Debug\netcoreapp3.1\Solve10.pdb
